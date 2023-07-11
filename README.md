@@ -6,7 +6,7 @@ This repository contains code and resources for building a machine learning mode
 The dataset used for training and evaluation can be found on Kaggle at the following link: [Google Play Store Apps Dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps). It contains features such as app name, category, rating, reviews, size, installs, type (free or paid), price, content rating, genres, last updated, current version, and Android version.
 
 ## Project Structure
-- `data`: This directory contains the dataset file (`googleplaystore.csv`).
+- `data`: This is contained in the dataset file (`googleplaystore.csv`).
 - `notebooks`: Jupyter notebooks with data exploration, preprocessing, and model development.
 - `models`: Trained models and model artifacts will be saved in this directory.
 - `src`: Python scripts for data preprocessing, model training, and prediction.
